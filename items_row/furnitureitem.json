@@ -1,0 +1,4111 @@
+[
+  {
+    "@uniquename": "T4_FURNITUREITEM_REPAIRKIT",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "repairkit",
+    "@tier": "4",
+    "@durability": "1",
+    "@durabilitylossperdayfactor": "40",
+    "@weight": "60",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "true",
+    "@accessrightspreset": "public",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@time": "2",
+      "@craftingfocus": "280",
+      "craftresource": [
+        {
+          "@uniquename": "T4_PLANKS",
+          "@count": "8"
+        },
+        {
+          "@uniquename": "T4_METALBAR",
+          "@count": "8"
+        }
+      ]
+    },
+    "repairkit": {
+      "@repaircostfactor": "2",
+      "@maxtier": "4"
+    }
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_REPAIRKIT",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "repairkit",
+    "@tier": "5",
+    "@durability": "1",
+    "@durabilitylossperdayfactor": "13.34",
+    "@weight": "75",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "true",
+    "@accessrightspreset": "public",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@time": "4",
+      "@craftingfocus": "490",
+      "craftresource": [
+        {
+          "@uniquename": "T5_PLANKS",
+          "@count": "8"
+        },
+        {
+          "@uniquename": "T5_METALBAR",
+          "@count": "8"
+        }
+      ]
+    },
+    "repairkit": {
+      "@repaircostfactor": "2",
+      "@maxtier": "5"
+    }
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_REPAIRKIT",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "repairkit",
+    "@tier": "6",
+    "@durability": "1",
+    "@durabilitylossperdayfactor": "4.45",
+    "@weight": "92",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "true",
+    "@accessrightspreset": "public",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@time": "8",
+      "@craftingfocus": "858",
+      "craftresource": [
+        {
+          "@uniquename": "T6_PLANKS",
+          "@count": "8"
+        },
+        {
+          "@uniquename": "T6_METALBAR",
+          "@count": "8"
+        }
+      ]
+    },
+    "repairkit": {
+      "@repaircostfactor": "2",
+      "@maxtier": "6"
+    }
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_REPAIRKIT",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "repairkit",
+    "@tier": "7",
+    "@durability": "1",
+    "@durabilitylossperdayfactor": "1.49",
+    "@weight": "112",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "true",
+    "@accessrightspreset": "public",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@time": "16",
+      "@craftingfocus": "1501",
+      "craftresource": [
+        {
+          "@uniquename": "T7_PLANKS",
+          "@count": "8"
+        },
+        {
+          "@uniquename": "T7_METALBAR",
+          "@count": "8"
+        }
+      ]
+    },
+    "repairkit": {
+      "@repaircostfactor": "2",
+      "@maxtier": "7"
+    }
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_REPAIRKIT",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "repairkit",
+    "@tier": "8",
+    "@durability": "1",
+    "@durabilitylossperdayfactor": "0.5",
+    "@weight": "138",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "true",
+    "@accessrightspreset": "public",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@time": "32",
+      "@craftingfocus": "2626",
+      "craftresource": [
+        {
+          "@uniquename": "T8_PLANKS",
+          "@count": "8"
+        },
+        {
+          "@uniquename": "T8_METALBAR",
+          "@count": "8"
+        }
+      ]
+    },
+    "repairkit": {
+      "@repaircostfactor": "2",
+      "@maxtier": "8"
+    }
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_GUILDBANNER_FABRIC",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "flag",
+    "@tier": "2",
+    "@durability": "9",
+    "@weight": "1.5",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@gold": "100",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_GUILDBANNER_FABRIC",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "flag",
+    "@tier": "3",
+    "@durability": "9",
+    "@weight": "2.25",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@gold": "400",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_GUILDBANNER_FABRIC",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "flag",
+    "@tier": "4",
+    "@durability": "9",
+    "@weight": "3.38",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@gold": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_GUILDBANNER_FABRIC",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "flag",
+    "@tier": "5",
+    "@durability": "9",
+    "@weight": "5.06",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@gold": "2000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_GUILDBANNER_SHIELD",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "banner",
+    "@tier": "2",
+    "@durability": "9",
+    "@weight": "1.5",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@gold": "100",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_GUILDBANNER_SHIELD",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "banner",
+    "@tier": "3",
+    "@durability": "9",
+    "@weight": "2.25",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@gold": "400",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_GUILDBANNER_SHIELD",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "banner",
+    "@tier": "4",
+    "@durability": "9",
+    "@weight": "3.38",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@gold": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_GUILDBANNER_SHIELD",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "banner",
+    "@tier": "5",
+    "@durability": "9",
+    "@weight": "5.06",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@gold": "2000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "5",
+    "@enchantmentlevel": "1",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_A",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_A",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "5",
+    "@enchantmentlevel": "1",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_B",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_B",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_C",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "5",
+    "@enchantmentlevel": "1",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_C",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_C",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_COMPANION",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "5",
+    "@enchantmentlevel": "1",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_COMPANION",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_COMPANION",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_BARREL",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "5",
+    "@enchantmentlevel": "1",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_BARREL",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_BARREL",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_MERLINCUBE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "5",
+    "@enchantmentlevel": "1",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_MERLINCUBE",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_SARCOPHAGUS",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "5",
+    "@enchantmentlevel": "0",
+    "@weight": "22.5",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_CHEST_SARCOPHAGUS",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_DEER_STATUE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "unique",
+    "@tier": "3",
+    "@weight": "2.25",
+    "@durability": "150",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_TELLAFRIEND_DEER_STATUE",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_DEER_STATUE",
+    "@itemvalue": "12000",
+    "@customizewithguildlogo": "true"
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_TELLAFRIEND_HUNTER_STATUE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "unique",
+    "@tier": "3",
+    "@weight": "2.25",
+    "@durability": "150",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_TELLAFRIEND_HUNTER_STATUE",
+    "@tile": "UNIQUE_FURNITUREITEM_TELLAFRIEND_HUNTER_STATUE",
+    "@itemvalue": "12000",
+    "@showinmarketplace": "true",
+    "@customizewithguildlogo": "true"
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_BED",
+    "@residencyslots": "1",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "bed",
+    "@tier": "2",
+    "@labourerfurnituretype": "bed",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "100",
+    "@labourersperfurnitureitem": "1",
+    "@weight": "2.7",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0.5",
+      "@craftingfocus": "171",
+      "craftresource": [
+        {
+          "@uniquename": "T2_PLANKS",
+          "@count": "10"
+        },
+        {
+          "@uniquename": "T2_CLOTH",
+          "@count": "20"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_BED",
+    "@residencyslots": "1",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "bed",
+    "@tier": "3",
+    "@labourerfurnituretype": "bed",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "150",
+    "@labourersperfurnitureitem": "1",
+    "@weight": "4.05",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "1",
+      "@craftingfocus": "300",
+      "craftresource": [
+        {
+          "@uniquename": "T3_PLANKS",
+          "@count": "10"
+        },
+        {
+          "@uniquename": "T3_CLOTH",
+          "@count": "20"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_BED",
+    "@residencyslots": "1",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "bed",
+    "@tier": "4",
+    "@labourerfurnituretype": "bed",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "200",
+    "@labourersperfurnitureitem": "1",
+    "@weight": "6.08",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "2",
+      "@craftingfocus": "525",
+      "craftresource": [
+        {
+          "@uniquename": "T4_PLANKS",
+          "@count": "10"
+        },
+        {
+          "@uniquename": "T4_CLOTH",
+          "@count": "20"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_BED",
+    "@residencyslots": "1",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "bed",
+    "@tier": "5",
+    "@labourerfurnituretype": "bed",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "250",
+    "@labourersperfurnitureitem": "1",
+    "@weight": "9.11",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "4",
+      "@craftingfocus": "920",
+      "craftresource": [
+        {
+          "@uniquename": "T5_PLANKS",
+          "@count": "10"
+        },
+        {
+          "@uniquename": "T5_CLOTH",
+          "@count": "20"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_BED",
+    "@residencyslots": "1",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "bed",
+    "@tier": "6",
+    "@labourerfurnituretype": "bed",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "300",
+    "@labourersperfurnitureitem": "1",
+    "@weight": "13.67",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "8",
+      "@craftingfocus": "1608",
+      "craftresource": [
+        {
+          "@uniquename": "T6_PLANKS",
+          "@count": "10"
+        },
+        {
+          "@uniquename": "T6_CLOTH",
+          "@count": "20"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_BED",
+    "@residencyslots": "1",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "bed",
+    "@tier": "7",
+    "@labourerfurnituretype": "bed",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "350",
+    "@labourersperfurnitureitem": "1",
+    "@weight": "20.5",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "16",
+      "@craftingfocus": "2814",
+      "craftresource": [
+        {
+          "@uniquename": "T7_PLANKS",
+          "@count": "10"
+        },
+        {
+          "@uniquename": "T7_CLOTH",
+          "@count": "20"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_BED",
+    "@residencyslots": "1",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "bed",
+    "@tier": "8",
+    "@labourerfurnituretype": "bed",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "400",
+    "@labourersperfurnitureitem": "1",
+    "@weight": "30.75",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "32",
+      "@craftingfocus": "4924",
+      "craftresource": [
+        {
+          "@uniquename": "T8_PLANKS",
+          "@count": "10"
+        },
+        {
+          "@uniquename": "T8_CLOTH",
+          "@count": "20"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_CHEST",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "2",
+    "@durability": "30",
+    "@weight": "2.7",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0.5",
+      "@craftingfocus": "171",
+      "craftresource": [
+        {
+          "@uniquename": "T2_PLANKS",
+          "@count": "20"
+        },
+        {
+          "@uniquename": "T2_METALBAR",
+          "@count": "10"
+        }
+      ]
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "7352.65"
+    }
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_CHEST",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "3",
+    "@durability": "30",
+    "@weight": "4.05",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "1",
+      "@craftingfocus": "300",
+      "craftresource": [
+        {
+          "@uniquename": "T3_PLANKS",
+          "@count": "20"
+        },
+        {
+          "@uniquename": "T3_METALBAR",
+          "@count": "10"
+        }
+      ]
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "10869.13"
+    }
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_CHEST",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "4",
+    "@durability": "30",
+    "@weight": "6.08",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "2",
+      "@craftingfocus": "525",
+      "craftresource": [
+        {
+          "@uniquename": "T4_PLANKS",
+          "@count": "20"
+        },
+        {
+          "@uniquename": "T4_METALBAR",
+          "@count": "10"
+        }
+      ]
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "16303.69"
+    }
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_CHEST",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "chest",
+    "@tier": "5",
+    "@durability": "30",
+    "@weight": "9.11",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "4",
+      "@craftingfocus": "920",
+      "craftresource": [
+        {
+          "@uniquename": "T5_PLANKS",
+          "@count": "20"
+        },
+        {
+          "@uniquename": "T5_METALBAR",
+          "@count": "10"
+        }
+      ]
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "table",
+    "@tier": "2",
+    "@labourerfurnituretype": "table",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "100",
+    "@labourersperfurnitureitem": "4",
+    "@weight": "5.4",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0.5",
+      "@craftingfocus": "343",
+      "craftresource": [
+        {
+          "@uniquename": "T2_PLANKS",
+          "@count": "30"
+        },
+        {
+          "@uniquename": "T2_CLOTH",
+          "@count": "30"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "table",
+    "@tier": "3",
+    "@labourerfurnituretype": "table",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "150",
+    "@labourersperfurnitureitem": "4",
+    "@weight": "8.1",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "1",
+      "@craftingfocus": "600",
+      "craftresource": [
+        {
+          "@uniquename": "T3_PLANKS",
+          "@count": "30"
+        },
+        {
+          "@uniquename": "T3_CLOTH",
+          "@count": "30"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "table",
+    "@tier": "4",
+    "@labourerfurnituretype": "table",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "200",
+    "@labourersperfurnitureitem": "4",
+    "@weight": "12.15",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "2",
+      "@craftingfocus": "1050",
+      "craftresource": [
+        {
+          "@uniquename": "T4_PLANKS",
+          "@count": "30"
+        },
+        {
+          "@uniquename": "T4_CLOTH",
+          "@count": "30"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "table",
+    "@tier": "5",
+    "@labourerfurnituretype": "table",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "250",
+    "@labourersperfurnitureitem": "6",
+    "@weight": "18.23",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "4",
+      "@craftingfocus": "1839",
+      "craftresource": [
+        {
+          "@uniquename": "T5_PLANKS",
+          "@count": "30"
+        },
+        {
+          "@uniquename": "T5_CLOTH",
+          "@count": "30"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "table",
+    "@tier": "6",
+    "@labourerfurnituretype": "table",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "300",
+    "@labourersperfurnitureitem": "6",
+    "@weight": "27.34",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "8",
+      "@craftingfocus": "3216",
+      "craftresource": [
+        {
+          "@uniquename": "T6_PLANKS",
+          "@count": "30"
+        },
+        {
+          "@uniquename": "T6_CLOTH",
+          "@count": "30"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "table",
+    "@tier": "7",
+    "@labourerfurnituretype": "table",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "350",
+    "@labourersperfurnitureitem": "6",
+    "@weight": "41.01",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "16",
+      "@craftingfocus": "5627",
+      "craftresource": [
+        {
+          "@uniquename": "T7_PLANKS",
+          "@count": "30"
+        },
+        {
+          "@uniquename": "T7_CLOTH",
+          "@count": "30"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "table",
+    "@tier": "8",
+    "@labourerfurnituretype": "table",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "400",
+    "@labourersperfurnitureitem": "6",
+    "@weight": "61.51",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "32",
+      "@craftingfocus": "9848",
+      "craftresource": [
+        {
+          "@uniquename": "T8_PLANKS",
+          "@count": "30"
+        },
+        {
+          "@uniquename": "T8_CLOTH",
+          "@count": "30"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_XMAS_FILL_CITY_TREE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_XMAS_FILL_CITY_TREE_A",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0",
+      "craftresource": {
+        "@uniquename": "UNIQUE_CONSUMABLE_EVENT_WINTER_2017",
+        "@count": "250"
+      }
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_XMAS_FILL_CITY_TREE_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_XMAS_FILL_CITY_TREE_B",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0",
+      "craftresource": {
+        "@uniquename": "UNIQUE_CONSUMABLE_EVENT_WINTER_2017",
+        "@count": "50"
+      }
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_XMAS_PRESENT",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@enchantmentlevel": "0",
+    "@weight": "0.1",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_XMAS_PRESENT",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0",
+      "craftresource": {
+        "@uniquename": "UNIQUE_CONSUMABLE_EVENT_WINTER_2017",
+        "@count": "150"
+      }
+    },
+    "container": {
+      "@capacity": "10",
+      "@weightlimit": "60.0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_EASTER_CHEST",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@enchantmentlevel": "0",
+    "@weight": "0.1",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_EASTER_CHEST",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0",
+      "craftresource": {
+        "@uniquename": "QUESTITEM_TOKEN_EVENT_EASTER_2018",
+        "@count": "5000"
+      }
+    },
+    "container": {
+      "@capacity": "10",
+      "@weightlimit": "60.0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_01",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "10",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_01",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "@craftfamegainfactor": "0",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0",
+      "craftresource": {
+        "@uniquename": "QUESTITEM_TOKEN_ARENA_UNRANKED",
+        "@count": "50"
+      }
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_02",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "10",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_02",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "@craftfamegainfactor": "0",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0",
+      "craftresource": [
+        {
+          "@uniquename": "QUESTITEM_TOKEN_ARENA_UNRANKED",
+          "@count": "200"
+        },
+        {
+          "@uniquename": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_01",
+          "@count": "1"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_03",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "10",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_03",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "@craftfamegainfactor": "0",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0",
+      "craftresource": [
+        {
+          "@uniquename": "QUESTITEM_TOKEN_ARENA_UNRANKED",
+          "@count": "1000"
+        },
+        {
+          "@uniquename": "UNIQUE_FURNITUREITEM_VANITY_ARENA_BANNER_02",
+          "@count": "1"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_C",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "4",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_C",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "4000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_D",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_FARM_DECO_D",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "2500",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_FIREBOWL_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "5",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_FIREBOWL_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "5000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_FIREBOWL_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "6",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_FIREBOWL_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "5500",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_MAGIC_EMBLEM_GROUND_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "15",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_MAGIC_EMBLEM_GROUND_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "15000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_MAGIC_EMBLEM_GROUND_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "20",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_MAGIC_EMBLEM_GROUND_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "20000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_NATURE_EMBLEM_GROUND_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "15",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_NATURE_EMBLEM_GROUND_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "15000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_NATURE_EMBLEM_GROUND_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "20",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_NATURE_EMBLEM_GROUND_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "20000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "75",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "75000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_A_BROKEN",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "15",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_A_BROKEN",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "15000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_HUNTER_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "30",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_HUNTER_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "30000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_HUNTER_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "75",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_HUNTER_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "75000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_MAGE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "30",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_MAGE_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "30000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_MAGE_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "75",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_MAGE_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "75000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_SWORD_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "25",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_SWORD_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "25000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_SWORD_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "30",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_SWORD_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "30000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_WARRIOR_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "30",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_WARRIOR_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "30000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_WARRIOR_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "75",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_STATUE_WARRIOR_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "75000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_VALOR_EMBLEM_GROUND_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "15",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_VALOR_EMBLEM_GROUND_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "15000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_VALOR_EMBLEM_GROUND_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "20",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_VALOR_EMBLEM_GROUND_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "20000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_STONE_WELL_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "14",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_STONE_WELL_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "13500",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "8",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "8000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "8",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "8000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_C",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "8",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DECO_C",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "8000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DOMESTIC_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DOMESTIC_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DOMESTIC_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "10",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_VEGETATION_TREE_DOMESTIC_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "10000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_BUNTING_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "5",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_BUNTING_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "5000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_FENCE_WATCHTOWER_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "21",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_FENCE_WATCHTOWER_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "21000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_FLOOR_SIGN_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "2",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_FLOOR_SIGN_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "1500",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_GATE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "12",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_GATE_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "12000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_GATE_BIG_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "35",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_GATE_BIG_B",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "35000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_LAUNDRY_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "14",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_LAUNDRY_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "1400",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_FISH_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "15",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_FISH_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "1450",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_VEGETATION_FLOWER_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "2",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_VEGETATION_FLOWER_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "1300",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_LANTERN_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "6",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_LANTERN_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "5500",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_LANTERN_CORNER_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "8",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_LANTERN_CORNER_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "8000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_CANDELABRA_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "15",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_CANDELABRA_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "15000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "PLAYERISLAND_FURNITUREITEM_WOOD_BARREL_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "1",
+    "@weight": "0.1",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "true",
+    "@uisprite": "PLAYERISLAND_FURNITUREITEM_WOOD_BARREL_A",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_PLAYERISLAND_DESC",
+    "craftingrequirements": {
+      "@silver": "2200",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_TORCH_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@weight": "2.25",
+    "@durability": "1",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_TORCH_A",
+    "@itemvalue": "1333.34",
+    "craftingrequirements": {
+      "@silver": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_TORCH_C",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@enchantmentlevel": "1",
+    "@weight": "2.25",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_TORCH_C",
+    "@tile": "UNIQUE_FURNITUREITEM_MORGANA_TORCH_C",
+    "@itemvalue": "4000",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_PENTAGRAM",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@enchantmentlevel": "3",
+    "@weight": "2.25",
+    "@durability": "27",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_PENTAGRAM",
+    "@tile": "UNIQUE_FURNITUREITEM_MORGANA_PENTAGRAM",
+    "@itemvalue": "36000",
+    "craftingrequirements": {
+      "@silver": "27000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_FIREBOWL_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@weight": "2.25",
+    "@durability": "1",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_FIREBOWL_B",
+    "@itemvalue": "1333.34",
+    "craftingrequirements": {
+      "@silver": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_FIREBOWL_C",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@enchantmentlevel": "1",
+    "@weight": "2.25",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_FIREBOWL_C",
+    "@tile": "UNIQUE_FURNITUREITEM_MORGANA_FIREBOWL_C",
+    "@itemvalue": "4000",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_CAMPFIRE_D",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@enchantmentlevel": "2",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_CAMPFIRE_D",
+    "@tile": "UNIQUE_FURNITUREITEM_MORGANA_CAMPFIRE_D",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_SACRIFICE_ALTAR_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@weight": "2.25",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_SACRIFICE_ALTAR_A",
+    "@itemvalue": "4000",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_SIEGE_BALLISTA_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@enchantmentlevel": "2",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_SIEGE_BALLISTA_A",
+    "@tile": "UNIQUE_FURNITUREITEM_MORGANA_SIEGE_BALLISTA_A",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_STANDARD_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@weight": "2.25",
+    "@durability": "1",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_STANDARD_A",
+    "@itemvalue": "1333.34",
+    "craftingrequirements": {
+      "@silver": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_WEAPONCRATE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@enchantmentlevel": "2",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_WEAPONCRATE_A",
+    "@tile": "UNIQUE_FURNITUREITEM_MORGANA_WEAPONCRATE_A",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    },
+    "container": {
+      "@capacity": "64",
+      "@weightlimit": "24295.69"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_PRISON_CELL_C",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@enchantmentlevel": "3",
+    "@weight": "2.25",
+    "@durability": "27",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_PRISON_CELL_C",
+    "@tile": "UNIQUE_FURNITUREITEM_MORGANA_PRISON_CELL_C",
+    "@itemvalue": "36000",
+    "craftingrequirements": {
+      "@silver": "27000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_TENT_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@enchantmentlevel": "3",
+    "@weight": "2.25",
+    "@durability": "27",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_MORGANA_TENT_A",
+    "@tile": "UNIQUE_FURNITUREITEM_MORGANA_TENT_A",
+    "@itemvalue": "36000",
+    "craftingrequirements": {
+      "@silver": "27000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_STATUE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "7",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_ARCHWAY_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_CANDLESTAND_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_MORGANA_CARPET_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "morgana_furniture",
+    "@tier": "5",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_SYMBOL_A",
+    "@uisprite": "FURNITUREITEM_KEEPER_SYMBOL",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "1",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "1333.34",
+    "craftingrequirements": {
+      "@silver": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_CANDLE_A",
+    "@uisprite": "FURNITUREITEM_KEEPER_CANDLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "1",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "1333.34",
+    "craftingrequirements": {
+      "@silver": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_SHRINE_A",
+    "@uisprite": "FURNITUREITEM_KEEPER_SHRINE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "4000",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_CAMP_FIRE_A",
+    "@uisprite": "FURNITUREITEM_KEEPER_CAMP_FIRE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "4000",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_ALTAR_A",
+    "@uisprite": "FURNITUREITEM_KEEPER_ALTAR",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_FLAG_A",
+    "@uisprite": "FURNITUREITEM_KEEPER_FLAG",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_SYMBOL_OF_POWER_A",
+    "@uisprite": "FURNITUREITEM_KEEPER_SYMBOL_OF_POWER",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "27",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "36000",
+    "craftingrequirements": {
+      "@silver": "27000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_STAR_OF_POWER_A",
+    "@uisprite": "FURNITUREITEM_KEEPER_STAR_OF_POWER",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "27",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "36000",
+    "craftingrequirements": {
+      "@silver": "27000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_FIREBOWL",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_CAULDRON",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KEEPER_HEATER",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "keeper_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_FOOD_PILE",
+    "@uisprite": "FURNITURE_HERETIC_FOOD_SUPPLY",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "1",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "1333.34",
+    "craftingrequirements": {
+      "@silver": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_ANIMAL_CAGES",
+    "@uisprite": "FURNITURE_HERETIC_ANIMAL_CAGES",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "1",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "1333.34",
+    "craftingrequirements": {
+      "@silver": "1000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_WEAPON_RACK",
+    "@uisprite": "FURNITURE_HERETIC_WEAPON_RACK",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "4000",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_TRAINING_DUMMY",
+    "@uisprite": "FURNITURE_HERETIC_PRACTICE_DUMMY",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "4000",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_PALLISADE",
+    "@uisprite": "FURNITURE_HERETIC_PALISADE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_GAME_TABLE",
+    "@uisprite": "FURNITURE_HERETIC_GAME_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "9",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "12000",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_FLAG",
+    "@uisprite": "FURNITURE_HERETIC_FLAG",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "27",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "36000",
+    "craftingrequirements": {
+      "@silver": "27000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_PLANNING_TABLE",
+    "@uisprite": "FURNITURE_HERETIC_PLANNING_TABLE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "27",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "36000",
+    "craftingrequirements": {
+      "@silver": "27000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_HERETIC_TENT",
+    "@uisprite": "FURNITURE_HERETIC_TENT",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "heretic_furniture",
+    "@tier": "4",
+    "@weight": "2.25",
+    "@durability": "27",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@itemvalue": "36000",
+    "craftingrequirements": {
+      "@silver": "27000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_GRAVE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_GRAVE_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_ICESCULPTURE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@showinmarketplace": "true",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_ICESCULPTURE_B",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@showinmarketplace": "true",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_ICESCULPTURE_C",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@showinmarketplace": "true",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_STATUE_MOUNTED_DIREWOLF_A",
+    "@uisprite": "UNIQUE_FURNITUREITEM_ADC_STATUE_MOUNTED_DIREWOLF",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "15",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_STATUE_MOUNTED_DIREWOLF_B",
+    "@uisprite": "UNIQUE_FURNITUREITEM_ADC_STATUE_MOUNTED_DIREWOLF",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "15",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_RUG_DIREBEAR",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_ADC_RUG_WOLF",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "0.8",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "0",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KNIGHT_STATUE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "7",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "craftingrequirements": {
+      "@silver": "9000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KNIGHT_CARPET_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KNIGHT_THRONE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_KNIGHT_ROUNDTABLE_A",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "decoration_furniture",
+    "@tier": "4",
+    "@weight": "1.5",
+    "@durability": "3",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@placeableonlyonislands": "false",
+    "@customizewithguildlogo": "true",
+    "craftingrequirements": {
+      "@silver": "3000",
+      "@time": "0"
+    }
+  },
+  {
+    "@uniquename": "UNIQUE_ALTAR_OF_CHEATING",
+    "@uisprite": "UNIQUE_FURNITUREITEM_FOUNDER_STATUE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "unique",
+    "@tier": "8",
+    "@weight": "2.25",
+    "@durability": "150",
+    "@unlockedtocraft": "false",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@showinmarketplace": "false",
+    "craftingrequirements": {
+      "@silver": "9999999",
+      "@time": "0"
+    },
+    "cheatprovider": null
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_FOUNDER_LOOKINGGLASS",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "3",
+    "@tier": "3",
+    "@weight": "2.25",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_FOUNDER_LOOKINGGLASS"
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_FOUNDER_CERTIFICATE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "unique",
+    "@tier": "3",
+    "@weight": "2.25",
+    "@durability": "10",
+    "@unlockedtocraft": "false",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_FOUNDER_CERTIFICATE",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish"
+  },
+  {
+    "@uniquename": "UNIQUE_FURNITUREITEM_FOUNDER_STATUE",
+    "@shopcategory": "furniture",
+    "@shopsubcategory1": "unique",
+    "@tier": "3",
+    "@weight": "2.25",
+    "@durability": "150",
+    "@unlockedtocraft": "false",
+    "@placeableindoors": "false",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "UNIQUE_FURNITUREITEM_FOUNDER_STATUE"
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TROPHY_GENERAL",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@tier": "2",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_BOOK",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_GENERAL_DESC"
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TROPHY_GENERAL",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@tier": "3",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_BOOK",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_GENERAL_DESC"
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TROPHY_GENERAL",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@tier": "4",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_BOOK",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_GENERAL_DESC"
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TROPHY_GENERAL",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@tier": "5",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_BOOK",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_GENERAL_DESC"
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TROPHY_GENERAL",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@tier": "6",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_BOOK",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_GENERAL_DESC"
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TROPHY_GENERAL",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@tier": "7",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_BOOK",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_GENERAL_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_GENERAL",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_BOOK",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_GENERAL_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_FISHING_BOSS",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "generaltrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "all",
+    "@labourerhappiness": "5",
+    "@labourersperfurnitureitem": "10",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "true",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_SHARK",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@tile": "T8_FURNITUREITEM_TROPHY_FISHING_A",
+    "craftingrequirements": {
+      "@time": "1.5",
+      "@craftingfocus": "0",
+      "@amountcrafted": "1",
+      "craftresource": [
+        {
+          "@uniquename": "T8_FISH_SALTWATER_ALL_BOSS_SHARK",
+          "@count": "1"
+        },
+        {
+          "@uniquename": "T8_PLANKS",
+          "@count": "4"
+        },
+        {
+          "@uniquename": "T8_METALBAR",
+          "@count": "2"
+        }
+      ]
+    }
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TROPHY_MERCENARY",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "mercenarytrophy",
+    "@tier": "2",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "mercenary",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_PHYSICALDAMAGE",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_MERCENARY_DESC"
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TROPHY_MERCENARY",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "mercenarytrophy",
+    "@tier": "3",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "mercenary",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_PHYSICALDAMAGE",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_MERCENARY_DESC"
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TROPHY_MERCENARY",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "mercenarytrophy",
+    "@tier": "4",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "mercenary",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_PHYSICALDAMAGE",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_MERCENARY_DESC"
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TROPHY_MERCENARY",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "mercenarytrophy",
+    "@tier": "5",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "mercenary",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_PHYSICALDAMAGE",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_MERCENARY_DESC"
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TROPHY_MERCENARY",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "mercenarytrophy",
+    "@tier": "6",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "mercenary",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_PHYSICALDAMAGE",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_MERCENARY_DESC"
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TROPHY_MERCENARY",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "mercenarytrophy",
+    "@tier": "7",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "mercenary",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_PHYSICALDAMAGE",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_MERCENARY_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_MERCENARY",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "mercenarytrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "mercenary",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_PHYSICALDAMAGE",
+    "@uicraftsoundstart": "Play_ui_action_craft_refine_wood_start",
+    "@uicraftsoundfinish": "Play_ui_action_craft_refine_wood_finish",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_MERCENARY_DESC"
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TROPHY_HIDE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "hidetrophy",
+    "@tier": "2",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "hide",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FOX",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_HIDE_DESC"
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TROPHY_HIDE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "hidetrophy",
+    "@tier": "3",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "hide",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_WOLF",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_HIDE_DESC"
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TROPHY_HIDE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "hidetrophy",
+    "@tier": "4",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "hide",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_BOAR",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_HIDE_DESC"
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TROPHY_HIDE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "hidetrophy",
+    "@tier": "5",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "hide",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_BEAR",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_HIDE_DESC"
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TROPHY_HIDE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "hidetrophy",
+    "@tier": "6",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "hide",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_DIREWOLF",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_HIDE_DESC"
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TROPHY_HIDE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "hidetrophy",
+    "@tier": "7",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "hide",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_DIREBOAR",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_HIDE_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_HIDE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "hidetrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "hide",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_DIREBEAR",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_HIDE_DESC"
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TROPHY_ORE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "oretrophy",
+    "@tier": "2",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "ore",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ORE_T2",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ORE_DESC"
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TROPHY_ORE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "oretrophy",
+    "@tier": "3",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "ore",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ORE_T3",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ORE_DESC"
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TROPHY_ORE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "oretrophy",
+    "@tier": "4",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "ore",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ORE_T4",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ORE_DESC"
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TROPHY_ORE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "oretrophy",
+    "@tier": "5",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "ore",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ORE_T5",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ORE_DESC"
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TROPHY_ORE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "oretrophy",
+    "@tier": "6",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "ore",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ORE_T6",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ORE_DESC"
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TROPHY_ORE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "oretrophy",
+    "@tier": "7",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "ore",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ORE_T7",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ORE_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_ORE",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "oretrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "ore",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ORE_T8",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ORE_DESC"
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TROPHY_FIBER",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fibertrophy",
+    "@tier": "2",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fiber",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FIBER_T2",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FIBER_DESC"
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TROPHY_FIBER",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fibertrophy",
+    "@tier": "3",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fiber",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FIBER_T3",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FIBER_DESC"
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TROPHY_FIBER",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fibertrophy",
+    "@tier": "4",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fiber",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FIBER_T4",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FIBER_DESC"
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TROPHY_FIBER",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fibertrophy",
+    "@tier": "5",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fiber",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FIBER_T5",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FIBER_DESC"
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TROPHY_FIBER",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fibertrophy",
+    "@tier": "6",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fiber",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FIBER_T6",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FIBER_DESC"
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TROPHY_FIBER",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fibertrophy",
+    "@tier": "7",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fiber",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FIBER_T7",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FIBER_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_FIBER",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fibertrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fiber",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FIBER_T8",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FIBER_DESC"
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TROPHY_ROCK",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "rocktrophy",
+    "@tier": "2",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "stone",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ROCK_T2",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ROCK_DESC"
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TROPHY_ROCK",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "rocktrophy",
+    "@tier": "3",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "stone",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ROCK_T3",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ROCK_DESC"
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TROPHY_ROCK",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "rocktrophy",
+    "@tier": "4",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "stone",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ROCK_T4",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ROCK_DESC"
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TROPHY_ROCK",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "rocktrophy",
+    "@tier": "5",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "stone",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ROCK_T5",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ROCK_DESC"
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TROPHY_ROCK",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "rocktrophy",
+    "@tier": "6",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "stone",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ROCK_T6",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ROCK_DESC"
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TROPHY_ROCK",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "rocktrophy",
+    "@tier": "7",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "stone",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ROCK_T7",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ROCK_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_ROCK",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "rocktrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "stone",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_ROCK_T8",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_ROCK_DESC"
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TROPHY_WOOD",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "woodtrophy",
+    "@tier": "2",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "wood",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_WOOD_T2",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_WOOD_DESC"
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TROPHY_WOOD",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "woodtrophy",
+    "@tier": "3",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "wood",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_WOOD_T3",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_WOOD_DESC"
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TROPHY_WOOD",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "woodtrophy",
+    "@tier": "4",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "wood",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_WOOD_T4",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_WOOD_DESC"
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TROPHY_WOOD",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "woodtrophy",
+    "@tier": "5",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "wood",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_WOOD_T5",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_WOOD_DESC"
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TROPHY_WOOD",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "woodtrophy",
+    "@tier": "6",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "wood",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_WOOD_T6",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_WOOD_DESC"
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TROPHY_WOOD",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "woodtrophy",
+    "@tier": "7",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "wood",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_WOOD_T7",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_WOOD_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_WOOD",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "woodtrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "wood",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_WOOD_T8",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_WOOD_DESC"
+  },
+  {
+    "@uniquename": "T2_FURNITUREITEM_TROPHY_FISH",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fishtrophy",
+    "@tier": "2",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fishing",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FISH_T2",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FISH_DESC"
+  },
+  {
+    "@uniquename": "T3_FURNITUREITEM_TROPHY_FISH",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fishtrophy",
+    "@tier": "3",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fishing",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FISH_T3",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FISH_DESC"
+  },
+  {
+    "@uniquename": "T4_FURNITUREITEM_TROPHY_FISH",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fishtrophy",
+    "@tier": "4",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fishing",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FISH_T4",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FISH_DESC"
+  },
+  {
+    "@uniquename": "T5_FURNITUREITEM_TROPHY_FISH",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fishtrophy",
+    "@tier": "5",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fishing",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FISH_T5",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FISH_DESC"
+  },
+  {
+    "@uniquename": "T6_FURNITUREITEM_TROPHY_FISH",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fishtrophy",
+    "@tier": "6",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fishing",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FISH_T6",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FISH_DESC"
+  },
+  {
+    "@uniquename": "T7_FURNITUREITEM_TROPHY_FISH",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fishtrophy",
+    "@tier": "7",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fishing",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FISH_T7",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FISH_DESC"
+  },
+  {
+    "@uniquename": "T8_FURNITUREITEM_TROPHY_FISH",
+    "@shopcategory": "trophies",
+    "@shopsubcategory1": "fishtrophy",
+    "@tier": "8",
+    "@labourerfurnituretype": "trophy",
+    "@labourersaffected": "fishing",
+    "@labourerhappiness": "10",
+    "@labourersperfurnitureitem": "3",
+    "@weight": "3",
+    "@durability": "10",
+    "@durabilitylossperusefactor": "0",
+    "@unlockedtocraft": "true",
+    "@placeableindoors": "true",
+    "@placeableoutdoors": "false",
+    "@placeableindungeons": "false",
+    "@uisprite": "FURNITUREITEM_TROPHY_FISH_T8",
+    "@descriptionlocatag": "@ITEMS_FURNITUREITEM_TROPHY_FISH_DESC"
+  }
+]
