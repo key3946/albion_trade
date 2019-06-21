@@ -12,6 +12,9 @@ class City(models.Model):
 
 
 class Good(models.Model):
+    localization_name_variable = models.CharField(max_length=200)
+    localization_description_variable = models.CharField(max_length=200)
+    index = models.IntegerField()
     unique_name = models.CharField(max_length=200)
 
     def __str__(self):

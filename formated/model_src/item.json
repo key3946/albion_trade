@@ -1,0 +1,24 @@
+{
+  "LocalizationNameVariable": "@ITEMS_T5_FARM_TEASEL_SEED",
+  "LocalizationDescriptionVariable": "@ITEMS_T5_FARM_TEASEL_SEED_DESC",
+  "LocalizedNames": {
+    "EN-US": "Dragon Teasel Seed",
+    "DE-DE": "Drachenkadensamen",
+    "FR-FR": "Graine de cardère incendiaire",
+    "RU-RU": "Семена драконьей ворсянки",
+    "PL-PL": "Nasiono Szczeci Smoczej",
+    "ES-ES": "Semilla de cardencha dragón",
+    "PT-BR": "Semente de Cardo-dragão"
+  },
+  "LocalizedDescriptions": {
+    "EN-US": "Dragon Teasel Seeds are used to plant a patch of Dragon Teasel.",
+    "DE-DE": "Drachenkadensamen dienen dazu, Drachenkaden zu pflanzen.",
+    "FR-FR": "Les graines de cardère incendiaire font pousser des carrés de cardères incendiraires",
+    "RU-RU": "Засейте семенами поле и вырастите драконью ворсянку.",
+    "PL-PL": "Nasiona szczeci smoczej są używane do sadzenia tej rośliny.",
+    "ES-ES": "Con semillas de cardencha dragón se plantan áreas de cardenchas dragones",
+    "PT-BR": "Sementes de Cardo-dragão são usadas para plantar canteiros de Cardo-dragão"
+  },
+  "Index": "11",
+  "UniqueName": "T5_FARM_TEASEL_SEED"
+}
