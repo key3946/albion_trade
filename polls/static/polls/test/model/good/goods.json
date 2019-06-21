@@ -1,0 +1,50 @@
+[
+  {
+    "LocalizationNameVariable": "@ITEMS_T1_FARM_CARROT_SEED",
+    "LocalizationDescriptionVariable": "@ITEMS_T1_FARM_CARROT_SEED_DESC",
+    "LocalizedNames": {
+      "EN-US": "Carrot Seeds",
+      "DE-DE": "Möhrensamen",
+      "FR-FR": "Graines de carotte",
+      "RU-RU": "Семена моркови",
+      "PL-PL": "Nasiona Marchwi",
+      "ES-ES": "Semillas de zanahoria",
+      "PT-BR": "Sementes de Cenoura"
+    },
+    "LocalizedDescriptions": {
+      "EN-US": "Carrot Seeds are used to plant a patch of Carrots.",
+      "DE-DE": "Möhrensamen dienen dazu, ein Möhrenbeet zu pflanzen.",
+      "FR-FR": "Les graines de carotte font pousser des carrés de carottes",
+      "RU-RU": "Засейте семенами поле и вырастите морковь.",
+      "PL-PL": "Nasiona marchwi są używane do sadzenia marchewek",
+      "ES-ES": "Con semillas de zanahoria se plantan áreas de zanahoria",
+      "PT-BR": "Sementes de cenoura são usadas para plantar canteiros de cenoura"
+    },
+    "Index": "0",
+    "UniqueName": "T1_FARM_CARROT_SEED"
+  },
+  {
+    "LocalizationNameVariable": "@ITEMS_T2_FARM_BEAN_SEED",
+    "LocalizationDescriptionVariable": "@ITEMS_T2_FARM_BEAN_SEED_DESC",
+    "LocalizedNames": {
+      "EN-US": "Bean Seed",
+      "DE-DE": "Bohnensamen",
+      "FR-FR": "Graine de haricot",
+      "RU-RU": "Семена бобов",
+      "PL-PL": "Nasiono Fasoli",
+      "ES-ES": "Semilla de judía",
+      "PT-BR": "Semente de Feijão"
+    },
+    "LocalizedDescriptions": {
+      "EN-US": "Bean Seeds are used to plant a patch of Beans.",
+      "DE-DE": "Bohnensamen dienen dazu, ein Bohnenbeet zu pflanzen.",
+      "FR-FR": "Les graines de haricot font pousser des carrés de haricots",
+      "RU-RU": "Засейте семенами поле и вырастите бобы.",
+      "PL-PL": "Nasiona fasoli są używane do sadzenia fasoli.",
+      "ES-ES": "Con semillas de judía se plantan áreas de judías",
+      "PT-BR": "Sementes de Feijão são usadas para plantar canteiros de Feijões"
+    },
+    "Index": "1",
+    "UniqueName": "T2_FARM_BEAN_SEED"
+  }
+]

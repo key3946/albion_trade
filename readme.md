@@ -1,6 +1,9 @@
 #Special thanks  
+`https://www.djangoproject.com/`
 `https://github.com/broderickhyman/ao-bin-dumps`  
-`https://github.com/broderickhyman/albiondata-client`
+`https://github.com/broderickhyman/albiondata-client`  
+`https://iconsflow.com/pricing-full`  
+`https://bulma.io/`
 
 ##手順
 `https://docs.djangoproject.com/ja/2.2/intro/`
@@ -14,7 +17,7 @@
 
 ##設計  
   
-###model  
+###view  
 ```
 convertPriceJsonToPriceClass(string jsonData){
     return priceClass prices
@@ -31,9 +34,6 @@ convertProfitBetweenCity(string uniqueName,string fromCityName,string toCityName
 calcProfit(string uniqueName,string sortOrder){
     return []{int profit,string fromCityName,string toCityName}
 }
-```
-##view  
-```
 requestPriceByUniqueName(string uniqueName){
     return string jsonData
 }

@@ -20,6 +20,16 @@ class Good(models.Model):
     def __str__(self):
         return self.unique_name
 
+    @staticmethod
+    def convert_json_to_good(json_data: str):
+        prices = []  # type:[Price]
+        return prices
+
+    @staticmethod
+    def update_good(goods: []):
+        is_succeeded = False
+        return is_succeeded
+
 
 class Price(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
@@ -36,5 +46,17 @@ class Price(models.Model):
     buy_price_max_date = models.DateTimeField()
 
     def __str__(self):
-        return Price.objects.get(id=self.id).good_id.unique_name + '/' + Price.objects.get(
-            id=self.id).city_id.name + '/' + str(Price.objects.get(id=self.id).quality)
+        name = Price.objects.get(id=self.id).good_id.unique_name
+        city = Price.objects.get(id=self.id).city_id.name
+        tier = str(Price.objects.get(id=self.id).quality)
+        return name + '/' + city + '/' + tier
+
+    @staticmethod
+    def convert_json_to_price(json_data: str):
+        prices = []  # type:[Price]
+        return prices
+
+    @staticmethod
+    def update_price(prices: []):
+        is_succeeded = False
+        return is_succeeded
