@@ -6,17 +6,18 @@ from polls.models import Price
 
 
 def index(request):
-    context = {'title': 'Albion Online Trader Guild'}
+    context = {'title': 'Albion Online Trader Guild - Make your big money'}
     return render(request, 'polls/index.html', context)
 
 
+def contact(request):
+    context = {'title': 'Albion Online Trader Guild - Contact'}
+    return render(request, 'polls/contact.html', context)
+
+
 def rank(request):
-    latest_question_list = Price.objects.order_by('-pub_date')[:5]
-    template = loader.get_template('polls/base.html')
-    context = {
-        'latest_question_list': latest_question_list,
-    }
-    return HttpResponse(template.render(context, request))
+    context = {'title': 'Albion Online Trader Guild - Analyze'}
+    return render(request, 'polls/index.html', context)
 
 
 def renew(request, question_id):

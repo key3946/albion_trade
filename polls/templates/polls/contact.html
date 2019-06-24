@@ -1,0 +1,83 @@
+{% extends "polls/base.html" %}
+{% load static %}
+
+{% block navi %}
+    {% include "polls/navi.html" %}
+{% endblock %}
+{% block body %}
+    <section class="section" role="main" aria-label="content" style="background: rgb(243,243,243)">
+        <div class="container is-fluid">
+            <div class="level">
+                <div class="level-item">
+                    <div class="box">
+                        <article class="media">
+                            <div class="media-left">
+                                <figure class="image is-64x64">
+                                    <img src="https://avatars1.githubusercontent.com/u/17234647?s=460&v=4" alt="Image">
+                                </figure>
+                            </div>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p>
+                                        <strong>Keeey</strong>
+                                        <small>@keeey</small>
+                                        <small>2 month ago</small>
+                                        <br>
+                                        I hope for your happiness.<br>
+                                        If you find an issue, send me at <a
+                                            href="https://github.com/key3946/albion_trade/issues">here</a>.<br>
+                                        Thank you for contribution!
+                                    </p>
+                                </div>
+                                <nav class="level is-mobile">
+                                    <div class="level-left">
+                                        <a class="level-item" aria-label="reply" href="mailto:key3946&#64;gmail.com">
+            <span class="icon is-small">
+              <i class="fas fa-reply" aria-hidden="true"></i>
+            </span>
+                                        </a>
+                                        <a class="level-item" aria-label="retweet">
+            <span class="icon is-small">
+              <i class="fas fa-retweet" aria-hidden="true"></i>
+            </span>
+                                        </a>
+                                        <a class="level-item" aria-label="like">
+            <span class="icon is-small">
+              <i class="fas fa-heart" aria-hidden="true"></i>
+            </span>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{#    ダイアログ#}
+    <div class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content">
+            <div class="box">
+                <article class="media">
+        <div class="media-content">
+          <div class="content">
+            <p>
+              <strong>Share</strong>
+              <br>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa fringilla egestas. Nullam condimentum luctus turpis.
+            </p>
+          </div>
+        </div>
+      </article>
+            </div>
+        </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+    </div>
+    <script>
+    </script>
+{% endblock %}
+{% block footer %}
+    {% include "polls/footer.html" %}
+{% endblock %}

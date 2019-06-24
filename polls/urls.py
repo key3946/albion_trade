@@ -6,6 +6,7 @@ urlpatterns = [
     # ex: /polls/
     path('', views.index, name='index'),
     path('rank/', views.rank, name='rank'),
+    path('contact/', views.contact, name='contact'),
     path('renew/<str:redirect>/', views.renew, name='renew'),
     path('price/<str:unique_name>', views.price, name='price'),
     path('profit_all/<str:from_city>/<str:to_city>', views.profit_all, name='profit_all'),
