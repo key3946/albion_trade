@@ -1,5 +1,28 @@
 {% extends "polls/base.html" %}
+{% load static %}
 
+{% block navi %}
+    {% include "polls/navi.html" %}
+{% endblock %}
 {% block body %}
-TEST
+    <section class="section" role="main" aria-label="content" style="background: rgb(243,243,243)">
+        <div class="container is-fluid">
+            <div id="poster"
+                 style='
+                         background: url("{% static "polls/images/logo_transparent.png" %}") no-repeat center;
+                         -webkit-background-size: contain;
+                         background-size: contain;
+                         height:500px;
+                         '>
+            </div>
+            <div class="level">
+                <div class="level-item">
+                    <button class="button is-primary is-large">Analyze</button>
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}
+{% block footer %}
+    {% include "polls/footer.html" %}
 {% endblock %}
