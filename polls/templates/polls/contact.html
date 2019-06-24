@@ -1,8 +1,7 @@
 {% extends "polls/base.html" %}
 {% load static %}
-
-{% block navi %}
-    {% include "polls/navi.html" %}
+{% block head %}
+    <script defer src="{% static "polls/js/contact.js" %}"></script>
 {% endblock %}
 {% block body %}
     <section class="section" role="main" aria-label="content" style="background: rgb(243,243,243)">
@@ -25,27 +24,23 @@
                                         <br>
                                         I hope for your happiness.<br>
                                         If you find an issue, send me at <a
-                                            href="https://github.com/key3946/albion_trade/issues">here</a>.<br>
+                                            href="https://github.com/key3946/albion_online_issue/issues">here</a>.<br>
                                         Thank you for contribution!
                                     </p>
                                 </div>
                                 <nav class="level is-mobile">
                                     <div class="level-left">
                                         <a class="level-item" aria-label="reply" href="mailto:key3946&#64;gmail.com">
-            <span class="icon is-small">
-              <i class="fas fa-reply" aria-hidden="true"></i>
-            </span>
+                                            <span class="icon is-small">
+                                                <i class="fas fa-reply" aria-hidden="true"></i>
+                                            </span>
                                         </a>
-                                        <a class="level-item" aria-label="retweet">
-            <span class="icon is-small">
-              <i class="fas fa-retweet" aria-hidden="true"></i>
-            </span>
-                                        </a>
-                                        <a class="level-item" aria-label="like">
-            <span class="icon is-small">
-              <i class="fas fa-heart" aria-hidden="true"></i>
-            </span>
-                                        </a>
+                                        {# TODO 好き！ボタンの作りこみ #}
+{#                                        <a class="level-item" aria-label="like">#}
+{#                                            <span class="icon is-small">#}
+{#                                              <i class="fas fa-heart" aria-hidden="true"></i>#}
+{#                                            </span>#}
+{#                                        </a>#}
                                     </div>
                                 </nav>
                             </div>
@@ -55,29 +50,4 @@
             </div>
         </div>
     </section>
-{#    ダイアログ#}
-    <div class="modal">
-        <div class="modal-background"></div>
-        <div class="modal-content">
-            <div class="box">
-                <article class="media">
-        <div class="media-content">
-          <div class="content">
-            <p>
-              <strong>Share</strong>
-              <br>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa fringilla egestas. Nullam condimentum luctus turpis.
-            </p>
-          </div>
-        </div>
-      </article>
-            </div>
-        </div>
-        <button class="modal-close is-large" aria-label="close"></button>
-    </div>
-    <script>
-    </script>
-{% endblock %}
-{% block footer %}
-    {% include "polls/footer.html" %}
 {% endblock %}

@@ -6,17 +6,20 @@ from polls.models import Price
 
 
 def index(request):
-    context = {'title': 'Albion Online Trader Guild - Make your big money'}
+    context = {'title': 'Albion Trader - Make your big money'}
     return render(request, 'polls/index.html', context)
 
 
 def contact(request):
-    context = {'title': 'Albion Online Trader Guild - Contact'}
+    context = {
+        'title': 'Albion Trader Guild - Contact',
+        'home_title': 'Albion Trader Guild'
+    }
     return render(request, 'polls/contact.html', context)
 
 
 def rank(request):
-    context = {'title': 'Albion Online Trader Guild - Analyze'}
+    context = {'title': 'Albion Trader - Analyze'}
     return render(request, 'polls/index.html', context)
 
 

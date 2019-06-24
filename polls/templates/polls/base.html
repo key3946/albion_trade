@@ -6,12 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ title }}</title>
     <link rel="stylesheet" type="text/css" href="{% static 'polls/bulma.min.css' %}">
+    <script src="{% static "polls/jquery-3.4.1.min.js" %}"></script>
     <script defer src="{% static 'polls/fontawesome.js' %}"></script>
+    <script defer src="{% static "polls/js/nav.js" %}"></script>
     {% block head %}{% endblock %}
 </head>
 <body>
-{% block navi %}{% endblock %}
+{% include "polls/navi.html" %}
 {% block body %}{% endblock %}
-{% block footer %}{% endblock %}
+{% include "polls/footer.html" %}
 </body>
 </html>
