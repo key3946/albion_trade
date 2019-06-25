@@ -1,4 +1,5 @@
 {% extends "polls/base.html" %}
+{% load i18n %}
 {% load static %}
 {% block body %}
     <section class="section" role="main" aria-label="content" style="background: rgb(243,243,243)">
@@ -8,13 +9,13 @@
                          background: url("{% static "polls/images/logo_transparent.png" %}") no-repeat center;
                          -webkit-background-size: contain;
                          background-size: contain;
-                         height:500px;
+                         height:400px;
                          '>
             </div>
             <div class="level">
                 <div class="level-item">
                     <a href="{% url "rank" %}">
-                        <button class="button is-primary is-large">Analyze</button>
+                        <button class="button is-primary is-large"><strong>{% trans "Analyze" %}</strong></button>
                     </a>
                 </div>
             </div>

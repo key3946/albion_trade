@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-25 16:19+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\polls\templates\polls\about.html:13
+msgid "Concept"
+msgstr "コンセプト"
+
+#: .\polls\templates\polls\about.html:16
+msgid "Albion Trader is essential tool to trade for people engaged in trade."
+msgstr "Albion Trader は貿易する方にとって必要不可欠なツールです。"
+
+#: .\polls\templates\polls\about.html:25 .\polls\templates\polls\index.html:18
+msgid "Analyze"
+msgstr "分析する"
+
+#: .\polls\templates\polls\about.html:28
+msgid ""
+"Analyze between city market price, and suggest you item and city to make "
+"more profit.<br>Also tell you which item is supply shortage or oversupply "
+"and make your gathering and craft goals."
+msgstr ""
+"都市のマーケットの情報を分析し、より利益が出る都市間やアイテムを提案します。"
+"<br>また、どのアイテムが供給不足/過多なのかを分析し、ギャザーやクラフトの目標"
+"を提示します。"
+
+#: .\polls\templates\polls\about.html:37
+msgid "Map"
+msgstr "マップ"
+
+#: .\polls\templates\polls\about.html:40
+msgid ""
+"Map is comfortable for gathering, random dungeon and navigate city to city "
+"route more safer."
+msgstr ""
+"マップはギャザーやランダムダンジョン、都市間貿易をする方に便利なように作られ"
+"ています。"
+
+#: .\polls\templates\polls\about.html:49
+msgid "Mobile"
+msgstr "モバイル"
+
+#: .\polls\templates\polls\about.html:52
+msgid ""
+"When you are playing game, you can not refer website by one monitor (Because "
+"world is dangerous!).<br>Albion Trader design for cross-platform.<br>You can "
+"refer from mobile when playing game!"
+msgstr ""
+"1画面ではサイトを見ながらゲームは出来ません。(裏画面で見るには危険すぎま"
+"す！)<br>Albion Trader はモバイル機器でも閲覧できるようにデザインされていま"
+"す。<br>モバイル機器を見ながらゲームが出来るようになる訳ですね。"
+
+#: .\polls\templates\polls\about.html:61
+msgid "Localize"
+msgstr "多言語対応"
+
+#: .\polls\templates\polls\about.html:64
+msgid ""
+"Albion online have a lot of people from different country.<br>Now I support "
+"Japanese and English.<br>Yes, I am Japanese.<br>(O, oh. Not supported all "
+"language yet. Sorry!"
+msgstr ""
+"Albion online は様々な国からアクセスされています。<br>現在サポートしているの"
+"は日本語と英語です。<br>そうです、私は日本人なんですね。<br>(O, oh. Not "
+"supported all language yet. Sorry!"
+
+#: .\polls\templates\polls\about.html:66
+msgid "Help localize this site!"
+msgstr "翻訳助けて…"
+
+#: .\polls\templates\polls\contact.html:25
+msgid "2 month ago"
+msgstr "2か月前"
+
+#: .\polls\templates\polls\contact.html:27
+msgid "I hope for your happiness."
+msgstr "あなたが幸せになりますように"
+
+#: .\polls\templates\polls\contact.html:28
+msgid "If you find an issue, send me at"
+msgstr "もしバグを見つけたら→"
+
+#: .\polls\templates\polls\contact.html:29
+msgid "here."
+msgstr "ここ"
+
+#: .\polls\templates\polls\contact.html:30
+msgid "Thank you for contribution!"
+msgstr "ご協力どうも！"
+
+#: .\polls\templates\polls\license.html:27
+#: .\polls\templates\polls\license.html:97
+msgid "Albion Trader is agreed and observed"
+msgstr "Albion Trader は次に同意及び遵守しています: "
+
+#: .\polls\templates\polls\license.html:28
+msgid "usage"
+msgstr "使い方"
+
+#: .\polls\templates\polls\license.html:29
+msgid "Code is"
+msgstr "コードは"
+
+#: .\polls\templates\polls\license.html:51
+msgid "Source code licensed"
+msgstr "ソースコードのライセンスは"
+
+#: .\polls\views.py:15
+msgid "Albion Trader - Contact"
+msgstr "Albion Trader - 連絡"
+
+#: .\polls\views.py:16
+msgid "Contact"
+msgstr "連絡"
+
+#: .\polls\views.py:17
+msgid "Don't kill me (ToT)"
+msgstr "PKしないで（；；）"
+
+#: .\polls\views.py:24
+msgid "Albion Trader - Analyze"
+msgstr "Albion Trader - 分析"
+
+#: .\polls\views.py:31
+msgid "Albion Trader - About"
+msgstr "Albion Trader - このサイトについて"
+
+#: .\polls\views.py:32
+msgid "About"
+msgstr "このサイトについて"
+
+#: .\polls\views.py:33
+msgid "Head to happiness"
+msgstr "幸せになりますように"
+
+#: .\polls\views.py:40
+msgid "Albion Trader - License"
+msgstr "Albion Trader - ライセンス"
+
+#: .\polls\views.py:41
+msgid "License"
+msgstr "ライセンス"
+
+#: .\polls\views.py:42
+msgid "I agree and respect the following"
+msgstr "私は次に同意し、尊敬の念を抱いております。"

@@ -15,6 +15,12 @@
 `python manage.py createsuperuser`  
 `python manage.py runserver`  
 
+`pip install django-admin-tools`  
+`https://mlocati.github.io/articles/gettext-iconv-windows.html`
+`django-admin makemessages -l ja`
+`django-admin compilemessages
+`
+
 ##設計  
   
 ###view  

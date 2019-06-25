@@ -1,9 +1,10 @@
-from django.urls import path
+from django.urls import path, include
 
 from . import views
 
 urlpatterns = [
     # ex: /polls/
+    path('i18n/', include('django.conf.urls.i18n')),
     path('', views.index, name='index'),
     path('rank/', views.rank, name='rank'),
     path('contact/', views.contact, name='contact'),
