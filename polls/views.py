@@ -1,36 +1,45 @@
 from django.http import HttpResponse
 from django.shortcuts import render
+from django.utils.translation import gettext_lazy as _
 
 
 def index(request):
-    context = {'title': 'Albion Trader - Make your big money'}
+    context = {
+        'title': 'Albion Trader - Make your big money'
+    }
     return render(request, 'polls/index.html', context)
 
 
 def contact(request):
     context = {
-        'title': 'Albion Trader Guild - Contact',
-        'hero_title': 'Contact',
-        'hero_subtitle':'Don\'t kill me (ToT)'
+        'title': _('Albion Trader - Contact'),
+        'hero_title': _('Contact'),
+        'hero_subtitle': _('Don\'t kill me (ToT)')
     }
     return render(request, 'polls/contact.html', context)
 
 
 def rank(request):
-    context = {'title': 'Albion Trader - Analyze'}
+    context = {
+        'title': _('Albion Trader - Analyze')
+    }
     return render(request, 'polls/rank.html', context)
 
 
 def about(request):
-    context = {'title': 'Albion Trader - About me'}
+    context = {
+        'title': _('Albion Trader - About'),
+        'hero_title': _('About'),
+        'hero_subtitle': _('Head to happiness')
+    }
     return render(request, 'polls/about.html', context)
 
 
 def license_(request):
     context = {
-        'title': 'Albion Trader - License',
-        'hero_title': 'License',
-        'hero_subtitle': 'I agree and respect the following.'
+        'title': _('Albion Trader - License'),
+        'hero_title': _('License'),
+        'hero_subtitle': _('I agree and respect the following')
     }
     return render(request, 'polls/license.html', context)
 

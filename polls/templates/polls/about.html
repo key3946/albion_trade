@@ -1,2 +1,73 @@
 {% extends "polls/base.html" %}
+{% load i18n %}
 {% load static %}
+{% block hero %}
+    {% include "polls/hero.html" %}
+{% endblock %}
+{% block body %}
+    <section class="section">
+        <div class="hero is-primary is-bold">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">
+                        {% trans "Concept" %}
+                    </h1>
+                    <h2 class="subtitle">
+                        {% trans "Albion Trader is essential tool to trade for people engaged in trade." %}
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="hero is-info is-bold">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">
+                        {% trans "Analyze" %}
+                    </h1>
+                    <h2 class="subtitle">
+                        {% trans "Analyze between city market price, and suggest you item and city to make more profit.<br>Also tell you which item is supply shortage or oversupply and make your gathering and craft goals." %}
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="hero is-success is-bold">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">
+                        {% trans "Map" %}
+                    </h1>
+                    <h2 class="subtitle">
+                        {% trans "Map is comfortable for gathering, random dungeon and navigate city to city route more safer." %}
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="hero is-light is-bold">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">
+                        {% trans "Mobile" %}
+                    </h1>
+                    <h2 class="subtitle">
+                        {% trans "When you are playing game, you can not refer website by one monitor (Because world is dangerous!).<br>Albion Trader design for cross-platform.<br>You can refer from mobile when playing game!" %}
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="hero is-warning is-bold">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">
+                        {% trans "Localize" %}
+                    </h1>
+                    <h2 class="subtitle">
+                        {% trans "Albion online have a lot of people from different country.<br>Now I support Japanese and English.<br>Yes, I am Japanese.<br>(O, oh. Not supported all language yet. Sorry!" %}
+                        <a href="mailto:key3946&#64;gmail.com"
+                           class="has-text-info">{% trans "Help localize this site!" %}</a>)
+                    </h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+{% endblock %}

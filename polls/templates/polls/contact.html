@@ -1,4 +1,5 @@
 {% extends "polls/base.html" %}
+{% load i18n %}
 {% load static %}
 {% block head %}
     <script defer src="{% static "polls/js/contact.js" %}"></script>
@@ -21,12 +22,12 @@
                             <p>
                                 <strong>Keeey</strong>
                                 <small>@keeey</small>
-                                <small>2 month ago</small>
+                                <small>{% trans "2 month ago" %}</small>
                                 <br>
-                                I hope for your happiness.<br>
-                                If you find an issue, send me at <a
-                                    href="https://github.com/key3946/albion_online_issue/issues">here</a>.<br>
-                                Thank you for contribution!
+                                {% trans "I hope for your happiness." %}<br>
+                                {% trans "If you find an issue, send me at" %} <a
+                                    href="https://github.com/key3946/albion_online_issue/issues">{% trans "here." %}</a><br>
+                                {% trans "Thank you for contribution!" %}
                             </p>
                         </div>
                         <nav class="level is-mobile">

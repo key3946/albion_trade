@@ -1,4 +1,5 @@
 {% extends "polls/base.html" %}
+{% load i18n %}
 {% load static %}
 {% block hero %}
     {% include "polls/hero.html" %}
@@ -23,9 +24,9 @@
                                     Project</strong></a>
                                 <small>@Broderick Hyman</small>
                                 <br>
-                                Albion Trader is agreed and observed <a
-                                    href="https://www.albion-online-data.com/">usage</a>.<br>
-                                Code is <a href="https://opensource.org/licenses/mit-license.php">MIT License</a>.<br>
+                                {% trans "Albion Trader is agreed and observed" %} <a
+                                    href="https://www.albion-online-data.com/">{% trans "usage" %}</a>.<br>
+                                {% trans "Code is"%} <a href="https://opensource.org/licenses/mit-license.php">MIT License</a>.<br>
                             </p>
                         </div>
                     </div>
@@ -47,7 +48,7 @@
                                 <a href="https://bulma.io/"><strong>Bulma</strong></a>
                                 <small>@Jeremy Thomas</small>
                                 <br>
-                                Source code licensed <a href="https://opensource.org/licenses/mit-license.php">MIT</a>.
+                                {% trans "Source code licensed" %} <a href="https://opensource.org/licenses/mit-license.php">MIT</a>.
                             </p>
                         </div>
                     </div>
@@ -93,7 +94,7 @@
                                 <a href="https://hatchful.shopify.com/"><strong>Hatchful</strong></a>
                                 <small>@Hatchful</small>
                                 <br>
-                                Albion Trader is agreed and observed
+                                {% trans "Albion Trader is agreed and observed" %}
                                 <a href="https://hatchful.shopify.com/terms">hatchful's term of service</a>.
                             </p>
                         </div>
