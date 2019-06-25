@@ -1,11 +1,11 @@
-#Special thanks  
-`https://www.djangoproject.com/`
+# Special thanks  
+`https://www.djangoproject.com/`  
 `https://github.com/broderickhyman/ao-bin-dumps`  
 `https://github.com/broderickhyman/albiondata-client`  
 `https://iconsflow.com/pricing-full`  
-`https://bulma.io/`
+`https://bulma.io/`  
 
-##手順
+## 手順
 `https://docs.djangoproject.com/ja/2.2/intro/`
 
 
@@ -22,9 +22,9 @@
 `django-admin compilemessages`
 `pip install gitpython`  
 
-##設計  
+## 設計  
   
-###view  
+### view  
 ```
 convertPriceJsonToPriceClass(string jsonData){
     return priceClass prices
@@ -57,7 +57,7 @@ requestPriceByUniqueName(string uniqueName){
         /profit/<fromCity>/<toCity>/<uniqueName>    指定したアイテムと都市間の利益を表示
 ```
 
-##template
+## template
 ```
 base    HTMLの基本要素 (title,script,content)
 table   データ一覧表示(tableHeader,data)
