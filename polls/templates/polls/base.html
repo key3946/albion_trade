@@ -9,10 +9,12 @@
     <script src="{% static "polls/jquery-3.4.1.min.js" %}"></script>
     <script defer src="{% static 'polls/fontawesome.js' %}"></script>
     <script defer src="{% static "polls/js/nav.js" %}"></script>
+    <link rel="icon" href="{% static 'polls/favicon.ico' %}">
     {% block head %}{% endblock %}
 </head>
 <body>
 {% include "polls/navi.html" %}
+{% block hero %}{% endblock %}
 {% block body %}{% endblock %}
 {% include "polls/footer.html" %}
 </body>

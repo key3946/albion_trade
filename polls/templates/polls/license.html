@@ -1,0 +1,132 @@
+{% extends "polls/base.html" %}
+{% load static %}
+{% block hero %}
+    {% include "polls/hero.html" %}
+{% endblock %}
+{% block body %}
+    <section class="section" role="main" style="background: rgb(243,243,243)">
+        <div class="container">
+            <div class="level">
+                {# Albion Data Project #}
+                <article class="media box level-item">
+                    <figure class="media-left">
+                        <p class="image is-128x128">
+                            <a href="https://www.albion-online-data.com/">
+                                <img src="{% static "polls/images/albion_data_logo_square.png" %}">
+                            </a>
+                        </p>
+                    </figure>
+                    <div class="media-content">
+                        <div class="content">
+                            <p>
+                                <a href="https://www.albion-online-data.com/"><strong>Albion Online Data
+                                    Project</strong></a>
+                                <small>@Broderick Hyman</small>
+                                <br>
+                                Albion Trader is agreed and observed <a
+                                    href="https://www.albion-online-data.com/">usage</a>.<br>
+                                Code is <a href="https://opensource.org/licenses/mit-license.php">MIT License</a>.<br>
+                            </p>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            <div class="level">
+                {# Bulma #}
+                <article class="media box level-item">
+                    <figure class="media-left">
+                        <p class="image is-128x128">
+                            <a href="https://bulma.io/">
+                                <img src="{% static "polls/images/bulma_logo_square.png" %}">
+                            </a>
+                        </p>
+                    </figure>
+                    <div class="media-content">
+                        <div class="content">
+                            <p>
+                                <a href="https://bulma.io/"><strong>Bulma</strong></a>
+                                <small>@Jeremy Thomas</small>
+                                <br>
+                                Source code licensed <a href="https://opensource.org/licenses/mit-license.php">MIT</a>.
+                            </p>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            <div class="level">
+                {# Django #}
+                <article class="media box level-item">
+                    <figure class="media-left">
+                        <p class="image is-128x128">
+                            <a href="https://www.djangoproject.com/">
+                                <img src="{% static "polls/images/django_logo_square.png" %}">
+                            </a>
+                        </p>
+                    </figure>
+                    <div class="media-content">
+                        <div class="content">
+                            <p>
+                                <a href="https://www.djangoproject.com/"><strong>Django</strong></a>
+                                <small>@Django Software Foundation and individual contributors</small>
+                                <br>
+                                Copyright (c) Django Software Foundation and individual contributors.<br>
+                                All rights reserved.<br>
+                                <a href="https://github.com/django/django/blob/master/LICENSE">License</a>
+                            </p>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            {# Hatchful #}
+            <div class="level">
+                <article class="media box level-item">
+                    <figure class="media-left">
+                        <p class="image is-128x128">
+                            <a href="https://hatchful.shopify.com/">
+                                <img src="{% static "polls/images/hatchful_logo_square.png" %}">
+                            </a>
+                        </p>
+                    </figure>
+                    <div class="media-content">
+                        <div class="content">
+                            <p>
+                                <a href="https://hatchful.shopify.com/"><strong>Hatchful</strong></a>
+                                <small>@Hatchful</small>
+                                <br>
+                                Albion Trader is agreed and observed
+                                <a href="https://hatchful.shopify.com/terms">hatchful's term of service</a>.
+                            </p>
+                        </div>
+                    </div>
+                </article>
+            </div>
+            {# fontawesome #}
+            <div class="level">
+                <article class="media box level-item">
+                    <figure class="media-left">
+                        <p class="image is-128x128">
+                            <a href="https://github.com/FortAwesome/Font-Awesome">
+                                <img src="{% static "polls/images/fontawesome_logo_square.png" %}">
+                            </a>
+                        </p>
+                    </figure>
+                    <div class="media-content">
+                        <div class="content">
+                            <p>
+                                <a href="https://github.com/FortAwesome/Font-Awesome"><strong>Font Awesome Free</strong></a>
+                                <small>@Dave Gandy @Travis Chase @Rob Madole @Brian Talbot @Jory Raphael @Mike Wilkerson
+                                    @Geremia Taglialatela
+                                </small>
+                                <br>
+                                Icons <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0
+                                License</a>.<br>
+                                Fonts <a href="https://opensource.org/licenses/OFL-1.1">SIL OFL 1.1 License</a>.<br>
+                                Code <a href="https://opensource.org/licenses/mit-license.php">MIT License</a>.<br>
+                            </p>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+{% endblock %}

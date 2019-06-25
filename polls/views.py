@@ -1,8 +1,5 @@
 from django.http import HttpResponse
 from django.shortcuts import render
-from django.template import loader
-
-from polls.models import Price
 
 
 def index(request):
@@ -13,14 +10,29 @@ def index(request):
 def contact(request):
     context = {
         'title': 'Albion Trader Guild - Contact',
-        'home_title': 'Albion Trader Guild'
+        'hero_title': 'Contact',
+        'hero_subtitle':'Don\'t kill me (ToT)'
     }
     return render(request, 'polls/contact.html', context)
 
 
 def rank(request):
     context = {'title': 'Albion Trader - Analyze'}
-    return render(request, 'polls/index.html', context)
+    return render(request, 'polls/rank.html', context)
+
+
+def about(request):
+    context = {'title': 'Albion Trader - About me'}
+    return render(request, 'polls/about.html', context)
+
+
+def license_(request):
+    context = {
+        'title': 'Albion Trader - License',
+        'hero_title': 'License',
+        'hero_subtitle': 'I agree and respect the following.'
+    }
+    return render(request, 'polls/license.html', context)
 
 
 def renew(request, question_id):
