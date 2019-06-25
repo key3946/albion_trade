@@ -3,50 +3,50 @@
 {% block head %}
     <script defer src="{% static "polls/js/contact.js" %}"></script>
 {% endblock %}
+{% block hero %}
+    {% include "polls/hero.html" %}
+{% endblock %}
 {% block body %}
     <section class="section" role="main" aria-label="content" style="background: rgb(243,243,243)">
-        <div class="container is-fluid">
+        <div class="container">
             <div class="level">
-                <div class="level-item">
-                    <div class="box">
-                        <article class="media">
-                            <div class="media-left">
-                                <figure class="image is-64x64">
-                                    <img src="https://avatars1.githubusercontent.com/u/17234647?s=460&v=4" alt="Image">
-                                </figure>
-                            </div>
-                            <div class="media-content">
-                                <div class="content">
-                                    <p>
-                                        <strong>Keeey</strong>
-                                        <small>@keeey</small>
-                                        <small>2 month ago</small>
-                                        <br>
-                                        I hope for your happiness.<br>
-                                        If you find an issue, send me at <a
-                                            href="https://github.com/key3946/albion_online_issue/issues">here</a>.<br>
-                                        Thank you for contribution!
-                                    </p>
-                                </div>
-                                <nav class="level is-mobile">
-                                    <div class="level-left">
-                                        <a class="level-item" aria-label="reply" href="mailto:key3946&#64;gmail.com">
+                <article class="media box level-item">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="https://avatars1.githubusercontent.com/u/17234647?s=460&v=4" alt="Image">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <div class="content">
+                            <p>
+                                <strong>Keeey</strong>
+                                <small>@keeey</small>
+                                <small>2 month ago</small>
+                                <br>
+                                I hope for your happiness.<br>
+                                If you find an issue, send me at <a
+                                    href="https://github.com/key3946/albion_online_issue/issues">here</a>.<br>
+                                Thank you for contribution!
+                            </p>
+                        </div>
+                        <nav class="level is-mobile">
+                            <div class="level-left">
+                                <a class="level-item" aria-label="reply" href="mailto:key3946&#64;gmail.com">
                                             <span class="icon is-small">
                                                 <i class="fas fa-reply" aria-hidden="true"></i>
                                             </span>
-                                        </a>
-                                        {# TODO 好き！ボタンの作りこみ #}
-{#                                        <a class="level-item" aria-label="like">#}
-{#                                            <span class="icon is-small">#}
-{#                                              <i class="fas fa-heart" aria-hidden="true"></i>#}
-{#                                            </span>#}
-{#                                        </a>#}
-                                    </div>
-                                </nav>
+                                </a>
+                                {# TODO 好き！ボタンの作りこみ #}
+                                {#                                        <a class="level-item" aria-label="like">#}
+                                {#                                            <span class="icon is-small">#}
+                                {#                                              <i class="fas fa-heart" aria-hidden="true"></i>#}
+                                {#                                            </span>#}
+                                {#                                        </a>#}
                             </div>
-                        </article>
+                        </nav>
                     </div>
-                </div>
+                </article>
+
             </div>
         </div>
     </section>
