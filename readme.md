@@ -12,14 +12,14 @@
 `python -m pip install --upgrade pip`  
 `pip install Django`  
 `python manage.py migrate`  
-`python manage.py makemigrations polls`
+`python manage.py makemigrations polls`  
 `python manage.py createsuperuser`  
 `python manage.py runserver 0.0.0.0:8000`  
 
 `pip install django-admin-tools`  
 `https://mlocati.github.io/articles/gettext-iconv-windows.html`  
 `django-admin makemessages -l ja`  
-`django-admin compilemessages`
+`django-admin compilemessages`  
 `pip install gitpython`  
 
 ## 設計  
