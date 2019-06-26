@@ -1,3 +1,4 @@
+import datetime
 import os
 import re
 import shutil
@@ -8,8 +9,14 @@ from django.http import HttpResponse
 from django.shortcuts import render, redirect
 from django.utils.translation import gettext_lazy as _
 import git
+import logging
 
 from polls.models import Good
+
+logger = logging.getLogger(__name__)
+IS_RENEW_CONTINUE = False
+LAST_RENEW_TIME = datetime.datetime.__init__(datetime, 2000, 1, 1, 0, 0, 0, 0,)
+print(LAST_RENEW_TIME)
 
 
 def index(request):
@@ -128,19 +135,20 @@ def create_good_object_from_dump(dump_path):
 
 
 def renew_all(request):
-    dump_path = 'polls/dumps'
-    if not check_between_local_remote_git(dump_path):
-        clone_dumps(dump_path)
+    global IS_RENEW_CONTINUE
+    if not IS_RENEW_CONTINUE:
+        IS_RENEW_CONTINUE = True
+        logger.info("Renew Goods Start")
+        dump_path = 'polls/dumps'
+        if not check_between_local_remote_git(dump_path):
+            clone_dumps(dump_path)
         create_good_object_from_dump(dump_path)
-        context = {
-            'state': 'cloned'
-        }
+        IS_RENEW_CONTINUE = False
+        logger.info("Renew Goods End")
     else:
-        context = {
-            'state': 'up to date'
-        }
+        logger.info("Renew Goods still continue")
 
-    return render(request, "polls/index.html", context)
+    return render(request, "polls/index.html", context={})
 
 
 def price(request):

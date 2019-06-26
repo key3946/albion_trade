@@ -13,18 +13,17 @@
     </div>
     <div class="navbar-menu" id="navbar-menu">
         <div class="navbar-start">
-            <a class="navbar-item" href="{% url "index" %}"> Home </a>
-            <a class="navbar-item" href="{% url "rank" %}"> Analyze </a>
-            <a class="navbar-item"> Map </a>
+            <a class="navbar-item" href="{% url "index" %}"> {% trans "Home" %} </a>
+            <a class="navbar-item" href="{% url "rank" %}"> {% trans "Analyze" %} </a>
+            <a class="navbar-item"> {% trans "Map" %} </a>
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link"> More </a>
+                <a class="navbar-link"> {% trans "More" %} </a>
                 <div class="navbar-dropdown">
-                    <a class="navbar-item" href="{% url "about" %}"> About </a>
-                    <a class="navbar-item" href="{% url "license" %}"> License </a>
-                    <a class="navbar-item" href="{% url "contact" %}"> Contact </a>
+                    <a class="navbar-item" href="{% url "about" %}"> {% trans "About" %} </a>
+                    <a class="navbar-item" href="{% url "license" %}"> {% trans "License" %} </a>
+                    <a class="navbar-item" href="{% url "contact" %}"> {% trans "Contact" %} </a>
                     <hr class="navbar-divider">
-                    <a class="navbar-item" href="https://github.com/key3946/albion_online_issue/issues"> Report an
-                        issue </a>
+                    <a class="navbar-item" href="https://github.com/key3946/albion_trade/issues"> {% trans "Report an issue" %} </a>
                 </div>
             </div>
         </div>
